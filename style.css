@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 .backImg {
-    background-image: url(/img/pccoe-pcet-institute.jpg);
+    background-image: url('./img/pccoe-pcet-institute.jpg');
 }
 
 
